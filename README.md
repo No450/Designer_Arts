@@ -28,12 +28,26 @@ HTML/CSS (em protótipos navegáveis)
 
 Inteligência artificial 
 
-🔖 Licença
-Os arquivos deste repositório são de uso pessoal e não comercial.
-Se quiser utilizar algum material, entre em contato ou cite a autoria.
+## 📜 Licença
+
+Este conteúdo está licenciado sob a **Creative Commons Atribuição-NãoComercial 4.0 Internacional (CC BY-NC 4.0)**.
+
+Você pode:
+
+- ✅ Compartilhar — copiar e redistribuir o material em qualquer formato.
+- ✅ Adaptar — remixar, transformar e criar a partir do material.
+- ❌ **Não pode usar para fins comerciais**.
+
+Você deve:
+
+- 📌 Atribuir o crédito apropriado.
+- 📌 Indicar se modificações foram feitas.
+- 📌 Incluir um link para esta licença.
+
+🔗 Licença completa: [https://creativecommons.org/licenses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/)
 
 📌 Você pode adaptar este conteúdo para estudo, portfólio ou referência visual, mas não é permitido o uso comercial sem autorização.
+
 As artes geradas por Inteligência Artificial (IA) poderão ser utilizadas para fins comerciais e estarão organizadas em uma pasta separada.
 Já as artes de minha autoria não estão autorizadas para uso comercial, salvo mediante autorização prévia do autor.
 
-Sugestão de licença: CC BY-NC 4.0
